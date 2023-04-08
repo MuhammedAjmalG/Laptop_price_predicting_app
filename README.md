@@ -8,5 +8,5 @@ To make accurate predictions, machine learning algorithms require large datasets
 
 Laptop price prediction can be useful for both consumers and retailers. Consumers can use these predictions to make informed purchasing decisions and retailers can use them to adjust their pricing strategies and optimize their profits.
 
-
+## This is the link for using this appliction : https://muhammedajmalg-laptop-price-pridiciting-app-main-q58zyl.streamlit.app/
 
