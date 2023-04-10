@@ -1,4 +1,4 @@
-# Laptop_price_pridiciting_app
+# Laptop_price_predicting_app
 This an app which is deployed in Streamlit, a user can simply select some feature and this app can predict the price of the laptop by anlaysing the entered features.
 Laptop price prediction is the process of estimating the price of a laptop based on various factors such as brand, specifications, and market trends. Machine learning algorithms are often used to analyze historical data to make accurate price predictions.
 
